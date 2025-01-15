@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Next-Gen Autonomous Mapping and Data Collection for Land, Water, and Beyond
+  content: High-accuracy data solutions for underwater, terrain, and water quality insights with faster, cost-effective, and comprehensive coverage <br/> totam necessitatibus
   image: /images/banner-art.png
   button:
     label: "Contact Us"
