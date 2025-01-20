@@ -5,7 +5,7 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images_/icon.png",
-    "logo": "/images_/logo.svg",
+    "logo": "/images_/logo.png",
     "logo_width": "200",
     "logo_height": "38",
     "logo_text": "mahseer"

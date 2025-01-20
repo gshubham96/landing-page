@@ -4,26 +4,48 @@ description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+## Terms and Conditions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Welcome to MHSR Systems! These terms and conditions outline the rules and regulations for the use of our website, located at [Website URL]. By accessing this website, we assume you accept these terms and conditions in full. Do not continue to use MHSR Systems's website if you do not agree to all the terms and conditions stated on this page.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+1. Purpose of the Website
 
-#### Gathering of Personal Information
+The content provided on this website is purely speculative and serves as a demonstration of our envisioned product or service. The website and its materials are for informational and illustrative purposes only, and should not be considered as a final representation of the product’s functionality, features, or availability.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+2. Intellectual Property
 
-#### Protection of Personal- Information
+Unless otherwise stated, MHSR Systems owns the intellectual property rights for all material on this website. All intellectual property rights are reserved. You may view and/or print pages from the website for your personal use, subject to restrictions set in these terms and conditions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+You must not:
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+- Republish material from this website without prior consent.
+- Sell, rent, or sub-license material from this website.
+- Reproduce, duplicate, or copy material for commercial purposes.
 
-#### Privacy Policy Changes
+3. Disclaimer
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+The website content, including but not limited to text, graphics, and conceptual descriptions, is provided "as is" without any representations or warranties, express or implied. MHSR Systems makes no representations or warranties regarding the completeness, accuracy, or suitability of the information for any purpose.
+
+- The website content does not constitute a binding offer or guarantee.
+- The features, designs, or ideas presented are subject to change without notice.
+
+4. Limitation of Liability
+
+In no event shall MHSR Systems, its founders, or team members be held liable for any damages arising out of or in connection with the use of this website. This includes, without limitation, direct, indirect, incidental, or consequential damages.
+
+5. Third-Party Links
+
+This website may contain links to external websites or services. MHSR Systems is not responsible for the content, policies, or practices of any third-party websites and encourages users to review their terms and conditions separately.
+
+6. Changes to These Terms
+
+MHSR Systems reserves the right to revise these terms and conditions at any time. By continuing to use this website after changes are posted, you agree to the revised terms.
+
+7. Governing Law
+
+These terms and conditions are governed by and construed in accordance with the laws of [Your Country/State], and you irrevocably submit to the exclusive jurisdiction of the courts in that location.
+
+8. Contact Us
+
+If you have any questions or concerns about these terms and conditions, please contact us at [Contact Email].
+
