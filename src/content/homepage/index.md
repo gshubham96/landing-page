@@ -1,7 +1,7 @@
 ---
 banner:
   title: Next-Gen Autonomous Mapping and Data Collection for Land, Water, and Beyond
-  content: High-accuracy data solutions for underwater, terrain, and water quality insights with faster, cost-effective, and comprehensive coverage <br/> totam necessitatibus
+  content: High-accuracy data solutions for sub-surface and terrain along with water quality insights with faster, cost-effective, and comprehensive coverage. # <br/>
   image: /images/banner-art.png
   button:
     label: "Contact Us"
@@ -9,7 +9,7 @@ banner:
     enable: true
 
 # feature
-feature: 
+feature:
   title: Something You Need To Know
   features:
   - name: "Clean Code"

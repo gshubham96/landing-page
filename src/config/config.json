@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "title": "MHSR Systems",
+    "base_url": "https://landing.gar.gs",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images_/icon.png",
+    "logo": "/images_/logo.svg",
     "logo_width": "200",
     "logo_height": "38",
-    "logo_text": "Astroplate"
+    "logo_text": "mahseer"
   },
 
   "settings": {
@@ -19,15 +19,15 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Contact Us",
     "link": "/contact"
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "footer_content": "",
+    "copyright": "Theme Designed and Developed By [Themefisher](https://themefisher.com/)"
   },
 
   "metadata": {
